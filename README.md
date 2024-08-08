@@ -2,6 +2,8 @@
 
 This is a content-based recommendation system that uses natural language processing and machine learning techniques to recommend movies to users based on their viewing history. The system uses a combination of techniques, including:
 
+<img width="1022" alt="image" src="https://github.com/user-attachments/assets/350febda-4204-42b2-83ca-8dfca193354f">
+
 - **Text preprocessing:** converting text data into a numerical representation using CountVectorizer.
 - **Keyword extraction:** extracting keywords from movie plots using Rake from nltk toolkit.
 - **Cosine similarity:** calculating the similarity between movie vectors using cosine similarity.
@@ -28,3 +30,4 @@ This is a content-based recommendation system that uses natural language process
 The output of the project is a list of recommended movies for a given Input similar to the previous movie. The recommended movies are based on the user's viewing history and are ranked by their similarity scores which have the most similarity score that is near to 1.
 
 <img width="1042" alt="image" src="https://github.com/user-attachments/assets/0916e27a-84c4-4e12-a18f-e78c0d760ab4">
+
