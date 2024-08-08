@@ -13,6 +13,14 @@ This is a content-based recommendation system that uses natural language process
 - **Data preprocessing:** cleaning and preprocessing the data for analysis.
 - **Programming:** using Python to implement the recommendation system.
 
+## Text preprocessing code snippet using CountVectorizer
+
+<img width="1064" alt="image" src="https://github.com/user-attachments/assets/9c7fe5c2-f50f-4811-9960-984c488b0ac6">
+
+## Keyword extraction by RAKE(Rapid Action Keyword Extraction) algorithm extracts keywords by splitting text into words, removing stopwords, and calculating the co-occurrence of words.
+
+<img width="1036" alt="image" src="https://github.com/user-attachments/assets/230a9d4c-5c0b-4cc5-b743-ddb6232c32fd">
+
 ## Cosine similarity on the vector matrix of the Data
 <img width="1020" alt="image" src="https://github.com/user-attachments/assets/5c011e13-2379-4dd8-9757-77cd98ff0465">
 
