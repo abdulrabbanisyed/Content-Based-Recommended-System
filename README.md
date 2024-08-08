@@ -8,7 +8,7 @@ This is a content-based recommendation system that uses natural language process
 
 ## Tools:
 
-**Natural language processing:** using CountVectorizer and Rake to process text data.
-**Machine learning:** using cosine similarity to calculate the similarity between movie vectors.
-**Data preprocessing:** cleaning and preprocessing the data for analysis.
-**Programming:** using Python to implement the recommendation system.
+- **Natural language processing:** using CountVectorizer and Rake to process text data.
+- **Machine learning:** using cosine similarity to calculate the similarity between movie vectors.
+- **Data preprocessing:** cleaning and preprocessing the data for analysis.
+- **Programming:** using Python to implement the recommendation system.
