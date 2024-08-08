@@ -2,7 +2,8 @@
 
 This is a content-based recommendation system that uses natural language processing and machine learning techniques to recommend movies to users based on their viewing history. The system uses a combination of techniques, including:
 
-<img width="1022" alt="image" src="https://github.com/user-attachments/assets/350febda-4204-42b2-83ca-8dfca193354f">
+<img width="1009" alt="image" src="https://github.com/user-attachments/assets/9dd2430d-27e1-4f44-9313-01f03fcfd4f5">
+
 
 - **Text preprocessing:** converting text data into a numerical representation using CountVectorizer.
 - **Keyword extraction:** extracting keywords from movie plots using Rake from nltk toolkit.
